@@ -1,0 +1,64 @@
+<div class="container">
+   
+
+
+    <div class="row">
+
+        <div class="col-6">
+
+          
+                <div class="mb-3 row">
+                    
+                    <input class="form-control" placeholder="Entre com o email">
+                 
+                </div>
+                <div class="mb-3 row">
+
+                   
+                        <input type="password" class="form-control" placeholder="Entre com a senha" id="inputPassword">
+                   
+                </div>
+                <div class="mb-3 row">                  
+                        <button type="button" class="btn btn-outline-dark form-control" @onclick="MostrarFuncMes">Acessar</button>
+                </div>
+
+           
+
+        </div>
+
+        <div class="col-5">
+            <div class="card" style="width: 15rem;">
+                <!--<img src="../imagens/" class="card-img-top" alt="...">-->
+                <div class="card-body">
+                    <p class="card-text">aniversariante(s) do mês:</p>
+                    <p>@msg</p>
+                   
+                </div>
+            </div>
+
+        </div>
+
+
+    </div>
+
+
+
+</div>
+
+<!-- JavaScript-->
+
+<!--Programação C# - Nesse caso substituindo o JavaScript ou ReactDOM-->
+
+@code {
+    private string? msg;
+    public string? NomeCompleto { get; set; } = "Manoel Ferreira";
+    public string? Cargo { get; set; } = "Piloto";
+    private DateTime DataNasc{get;set;} = DateTime.Now;
+    public void MostrarFuncMes()
+    {
+        
+        msg = $"Parabéns {Cargo} {NomeCompleto}.Hoje: {DataNasc.Day}/{DataNasc.Month} é um dia especial,pois foi o dia em que você veio iluminar essa terra com o seu potêncial!";
+
+    }
+   
+}

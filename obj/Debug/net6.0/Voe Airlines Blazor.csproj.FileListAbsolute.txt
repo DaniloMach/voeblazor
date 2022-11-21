@@ -1,0 +1,27 @@
+D:\OneDrive\Área de Trabalho\Nova pasta\Voe Airlines Blazor\bin\Debug\net6.0\appsettings.Development.json
+D:\OneDrive\Área de Trabalho\Nova pasta\Voe Airlines Blazor\bin\Debug\net6.0\appsettings.json
+D:\OneDrive\Área de Trabalho\Nova pasta\Voe Airlines Blazor\bin\Debug\net6.0\Voe Airlines Blazor.staticwebassets.runtime.json
+D:\OneDrive\Área de Trabalho\Nova pasta\Voe Airlines Blazor\bin\Debug\net6.0\Voe Airlines Blazor.exe
+D:\OneDrive\Área de Trabalho\Nova pasta\Voe Airlines Blazor\bin\Debug\net6.0\Voe Airlines Blazor.deps.json
+D:\OneDrive\Área de Trabalho\Nova pasta\Voe Airlines Blazor\bin\Debug\net6.0\Voe Airlines Blazor.runtimeconfig.json
+D:\OneDrive\Área de Trabalho\Nova pasta\Voe Airlines Blazor\bin\Debug\net6.0\Voe Airlines Blazor.dll
+D:\OneDrive\Área de Trabalho\Nova pasta\Voe Airlines Blazor\bin\Debug\net6.0\Voe Airlines Blazor.pdb
+D:\OneDrive\Área de Trabalho\Nova pasta\Voe Airlines Blazor\obj\Debug\net6.0\Voe Airlines Blazor.csproj.AssemblyReference.cache
+D:\OneDrive\Área de Trabalho\Nova pasta\Voe Airlines Blazor\obj\Debug\net6.0\Voe Airlines Blazor.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Área de Trabalho\Nova pasta\Voe Airlines Blazor\obj\Debug\net6.0\Voe Airlines Blazor.AssemblyInfoInputs.cache
+D:\OneDrive\Área de Trabalho\Nova pasta\Voe Airlines Blazor\obj\Debug\net6.0\Voe Airlines Blazor.AssemblyInfo.cs
+D:\OneDrive\Área de Trabalho\Nova pasta\Voe Airlines Blazor\obj\Debug\net6.0\Voe Airlines Blazor.csproj.CoreCompileInputs.cache
+D:\OneDrive\Área de Trabalho\Nova pasta\Voe Airlines Blazor\obj\Debug\net6.0\Voe Airlines Blazor.MvcApplicationPartsAssemblyInfo.cache
+D:\OneDrive\Área de Trabalho\Nova pasta\Voe Airlines Blazor\obj\Debug\net6.0\Voe Airlines Blazor.RazorAssemblyInfo.cache
+D:\OneDrive\Área de Trabalho\Nova pasta\Voe Airlines Blazor\obj\Debug\net6.0\Voe Airlines Blazor.RazorAssemblyInfo.cs
+D:\OneDrive\Área de Trabalho\Nova pasta\Voe Airlines Blazor\obj\Debug\net6.0\staticwebassets.build.json
+D:\OneDrive\Área de Trabalho\Nova pasta\Voe Airlines Blazor\obj\Debug\net6.0\staticwebassets.development.json
+D:\OneDrive\Área de Trabalho\Nova pasta\Voe Airlines Blazor\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+D:\OneDrive\Área de Trabalho\Nova pasta\Voe Airlines Blazor\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+D:\OneDrive\Área de Trabalho\Nova pasta\Voe Airlines Blazor\obj\Debug\net6.0\scopedcss\bundle\Voe Airlines Blazor.styles.css
+D:\OneDrive\Área de Trabalho\Nova pasta\Voe Airlines Blazor\obj\Debug\net6.0\scopedcss\projectbundle\Voe Airlines Blazor.bundle.scp.css
+D:\OneDrive\Área de Trabalho\Nova pasta\Voe Airlines Blazor\obj\Debug\net6.0\Voe Airlines Blazor.dll
+D:\OneDrive\Área de Trabalho\Nova pasta\Voe Airlines Blazor\obj\Debug\net6.0\refint\Voe Airlines Blazor.dll
+D:\OneDrive\Área de Trabalho\Nova pasta\Voe Airlines Blazor\obj\Debug\net6.0\Voe Airlines Blazor.pdb
+D:\OneDrive\Área de Trabalho\Nova pasta\Voe Airlines Blazor\obj\Debug\net6.0\Voe Airlines Blazor.genruntimeconfig.cache
+D:\OneDrive\Área de Trabalho\Nova pasta\Voe Airlines Blazor\obj\Debug\net6.0\ref\Voe Airlines Blazor.dll
